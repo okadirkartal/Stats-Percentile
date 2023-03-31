@@ -5,6 +5,12 @@
         <RootNamespace>Stats_Percentile</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<PackageId>Stats-Percentile</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Osman Kartal</Authors>
+		<Company>Github</Company>
+		<RepositoryUrl>https://github.com/okadirkartal/Stats-Percentile</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
