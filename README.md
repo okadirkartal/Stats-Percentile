@@ -27,7 +27,7 @@ NuGet\Install-Package Stats-Percentile
 
 with Package Reference
 
-<PackageReference Include="Newtonsoft.Json" Version="1.0.0" />
+<PackageReference Include="Newtonsoft.Json" Version="1.0.1" />
 ```
 
 ## Setup
