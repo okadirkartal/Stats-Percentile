@@ -12,7 +12,7 @@
 
 | Stats-Percentile | .NET 7 |
 |------------------|---------|
-| 1.0.1            |   
+| 1.0.2            |   
 
 ## Install
 
@@ -27,7 +27,7 @@ NuGet\Install-Package Stats-Percentile
 
 with Package Reference
 
-<PackageReference Include="Newtonsoft.Json" Version="1.0.1" />
+<PackageReference Include="Newtonsoft.Json" Version="1.0.2" />
 ```
 
 ## Setup
